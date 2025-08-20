@@ -36,3 +36,5 @@ Ayrıca, bu projeleri düzenlerken ve yönetirken **Microsoft** ekosisteminden (
 
 <img src="https://github.com/altaygallagher/Coursera-Microsoft-Python-Development-Modules/blob/main/banner.gif" style="width: 1000px; height: 300px; object-fit: contain;"
 alt="python-banner-gif">
+
+<img src="https://github.com/altaygallagher/Coursera-Microsoft-Python-Development-Modules/blob/main/banner2.gif" style="width: 1000px; height: 300px; object-fit: contain;">
