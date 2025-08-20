@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mad Libs</title>
+</head>
+<body>
+    <h1>Mad Libs</h1>
+    <form method="POST" action="/">
+        {% for word_type in word_types %}
+            <label for="word_{{ loop.index - 1 }}">{{ word_type }}:</label>
+            <input type="text" name="word_{{ loop.index - 1 }}" required><br>
+        {% endfor %}
+        <button type="submit">Generate Story</button>
+    </form>
+</body>
+</html>
